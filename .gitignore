@@ -1,0 +1,17 @@
+# Kết quả biên dịch
+bin/
+*.class
+
+# Dữ liệu chạy thử
+data/*.dat
+data/*.bak
+
+# Cấu hình có mật khẩu CSDL
+db.properties
+
+# Cấu hình riêng của VS Code
+.vscode/
+
+# File hệ thống
+.DS_Store
+Thumbs.db
