@@ -6,7 +6,7 @@ Phần mềm console cho thư viện trường: quản lý đầu sách và từ
 
 > **Đặc tả đầy đủ** (chức năng, quy tắc nghiệp vụ, thiết kế từng lớp, kịch bản nghiệm thu, các bước theo slide) nằm ở [`docs/01-dac-ta.md`](docs/01-dac-ta.md). README này chỉ là bản tra cứu nhanh.
 
-Tên thành viên: **A: ………  ·  B: ………  ·  C: ………  ·  D: ………**
+Tên thành viên: **A: Thái  ·  B: Hiếu  ·  C: M.Long  ·  D: T.Long**
 
 ## 1. Cấu trúc project
 
